@@ -1,0 +1,101 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    border:0;
+}
+
+@media screen and (min-width: 1200px) {
+
+    .card {
+        width: 800px;
+        margin: 0 auto;
+    }
+}
+
+.dropdown-toggle::after {
+    display: none !important;
+}
+
+.twitter2,
+.fa-twitter {
+background-color: #19A5D6;
+color: white;
+border-radius: 5px;
+
+}
+
+.twitter {
+background-color: #1DAEE3;
+color: white;
+
+}
+
+.facebook2,
+.fa-facebook-f {
+    background-color: #38528D;
+color: white;
+border-radius: 5px;
+}
+
+.facebook {
+    background-color: #3B5999;
+    color: white;
+
+}
+
+.google2,
+.fa-google-plus-g {
+background-color: #C74535;
+color: white;
+border-radius: 5px;
+}
+
+.google {
+background-color: #D44837;
+color: white;
+}
+
+.dropdown-toggle,
+.mayor
+ {
+    background-color: #131313;
+    color: white; 
+    
+}
+
+
+.fa-angle-right:hover {
+    background-color: transparent;
+}
+
+.account {
+    background-color: #333333;
+    color: white;
+    border-radius: 5px;
+}
+
+.account:hover {
+    color: white;
+    /* background-color:#131313 ; */
+}
+.input-group-text,
+.fa-user,
+.fa-key,
+.fa-envelope {
+    background-color: white;
+
+}
+
+body {
+    background-color: #E67F34;
+}
+
+.btn-text {
+    font-weight: bold;
+}
+
+p {
+    font-size: 1.5rem;
+}
